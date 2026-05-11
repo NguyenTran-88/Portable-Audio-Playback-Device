@@ -50,3 +50,7 @@ Application Layer
 │   └── SSD1306 OLED Driver
 │
 └── STM32 HAL
+```
+## References
+[1] https://github.com/afiskon/stm32-ssd1306
+[2] https://github.com/nguyenkhue2608/STM32_Device_Lib
