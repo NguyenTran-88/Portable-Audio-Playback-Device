@@ -1,0 +1,7 @@
+../Source/BSP/bsp_button.c:63:6:BSP_Button_Init	16	static,ignoring_inline_asm
+../Source/BSP/bsp_button.c:88:9:BSP_Button_PopEvent	24	static,ignoring_inline_asm
+../Source/BSP/bsp_button.c:111:6:HAL_GPIO_EXTI_Callback	24	static
+../Source/BSP/bsp_button.c:141:16:BSP_Button_FindIndexByPin	24	static
+../Source/BSP/bsp_button.c:158:13:BSP_Button_PostEventFromISR	24	static
+../Source/BSP/bsp_button.c:171:10:BSP_Button_GetLastExtiPin	4	static
+../Source/BSP/bsp_button.c:176:10:BSP_Button_GetExtiCount	16	static

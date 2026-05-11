@@ -1,0 +1,14 @@
+../Source/BSP/bsp_display.c:59:6:BSP_Display_Init	1
+../Source/BSP/bsp_display.c:66:6:BSP_Display_FirstDraw	1
+../Source/BSP/bsp_display.c:77:6:BSP_Display_RefreshAll	8
+../Source/BSP/bsp_display.c:115:6:BSP_Display_ResetWaveAnim	1
+../Source/BSP/bsp_display.c:121:6:BSP_Display_Service	14
+../Source/BSP/bsp_display.c:195:6:BSP_Display_DrawPauseFull	1
+../Source/BSP/bsp_display.c:202:6:BSP_Display_DrawPauseIconOnly	1
+../Source/BSP/bsp_display.c:209:6:BSP_Display_DrawPlayIconOnly	1
+../Source/BSP/bsp_display.c:216:6:BSP_Display_DrawBluetoothFull	1
+../Source/BSP/bsp_display.c:223:6:BSP_Display_DrawWaveFrame	1
+../Source/BSP/bsp_display.c:246:13:BSP_Display_DrawTrack	1
+../Source/BSP/bsp_display.c:269:13:BSP_Display_DrawVolume	1
+../Source/BSP/bsp_display.c:290:13:BSP_Display_DrawBattery	1
+../Source/BSP/bsp_display.c:311:13:BSP_Display_UpdateCacheFromSystem	1

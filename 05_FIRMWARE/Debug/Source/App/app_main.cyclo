@@ -1,0 +1,3 @@
+../Source/App/app_main.c:15:6:App_Init	1
+../Source/App/app_main.c:28:6:App_Loop	2
+../Source/App/app_main.c:43:13:App_HandleEvent	7

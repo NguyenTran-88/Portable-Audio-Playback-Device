@@ -1,0 +1,7 @@
+../Source/BSP/bsp_battery.c:47:6:BSP_Battery_Init	1
+../Source/BSP/bsp_battery.c:58:6:BSP_Battery_Service	3
+../Source/BSP/bsp_battery.c:83:7:BSP_Battery_GetVoltage	1
+../Source/BSP/bsp_battery.c:88:9:BSP_Battery_GetPercent	1
+../Source/BSP/bsp_battery.c:97:17:BSP_Battery_ReadRawAverage	6
+../Source/BSP/bsp_battery.c:121:14:BSP_Battery_RawToVoltage	1
+../Source/BSP/bsp_battery.c:132:16:BSP_Battery_VoltageToPercent	5
