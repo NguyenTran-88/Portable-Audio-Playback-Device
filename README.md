@@ -52,9 +52,12 @@ Application Layer
 └── STM32 HAL
 ```
 ## Author
-Nguyen Tien Anh - 2351005
-Tran Bao Nguyen - 2351056
-Nguyen Duy Thong - 2351071
+Nguyen Tien Anh - 2351005.
+
+Tran Bao Nguyen - 2351056.
+
+Nguyen Duy Thong - 2351071.
+
 Project for Embedded System Design course.
 
 ## References
