@@ -58,8 +58,6 @@ Tran Bao Nguyen - 2351056.
 
 Nguyen Duy Thong - 2351071.
 
-Project for Embedded System Design course.
-
 ## References
 [1] https://github.com/afiskon/stm32-ssd1306
 
